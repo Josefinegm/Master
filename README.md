@@ -20,4 +20,4 @@ gitt at dataen kommer på samme format. I tilegg til at inputfilnavnene må endr
 steder i koden som definerer året som 2022, og hvis man vil se på et annet år så må dette endres. Det er ikke mange
 steder, og det burde ikke ta lang tid. Hvis man vil se på data fra en t-banestasjon som ikke er en endestasjon
 er det litt mer som må endres, for da kan man ikke lenger dele opp i avganger og ankomster slik jeg har gjort her.
-Dette burde helle ikke være så veldig komplisert, men det tar kanskje litt lenger tid.
+Dette burde heller ikke være så veldig komplisert, men det tar kanskje litt lenger tid.
