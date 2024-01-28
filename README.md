@@ -21,3 +21,5 @@ steder i koden som definerer året som 2022, og hvis man vil se på et annet år
 steder, og det burde ikke ta lang tid. Hvis man vil se på data fra en t-banestasjon som ikke er en endestasjon
 er det litt mer som må endres, for da kan man ikke lenger dele opp i avganger og ankomster slik jeg har gjort her.
 Dette burde heller ikke være så veldig komplisert, men det tar kanskje litt lenger tid.
+
+Filene som inneholder data som er analysert er ikke lagt ved ettersom disse inneholder ikke offentlig tilgjengelig informasjon.
